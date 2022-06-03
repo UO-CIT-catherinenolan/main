@@ -5,7 +5,7 @@
 
 ### [Lab 2](https://uo-cit-catherinenolan.github.io/cit281-lab2/): Use CLI commands and setup GIT user credentials
 
-### Lab 3: Refactoring, destructuring an object, arrow function expressions, for..in, for..of, module.exports
+### [Lab 3](https://uo-cit-catherinenolan.github.io/cit281-lab3/): Refactoring, destructuring an object, arrow function expressions, for..in, for..of, module.exports
 
 ### Lab 4: Fastify, Node.js web server, npm
 
