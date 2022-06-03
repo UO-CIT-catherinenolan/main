@@ -13,7 +13,7 @@
 
 ### [Lab 6](https://uo-cit-catherinenolan.github.io/cit281-lab6/): GitHub, JavaScript Classes
 
-### Lab 7: GitHub repository, error handling
+### [Lab 7](https://uo-cit-catherinenolan.github.io/cit281-lab7/): GitHub repository, error handling
  
 ### Lab 8:  Node-fetch and Fastify with JSONPlaceholder data
 
