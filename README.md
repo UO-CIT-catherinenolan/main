@@ -21,7 +21,7 @@
 
 ### [Project 1](https://uo-cit-catherinenolan.github.io/cit281-p1/): Commnad Line Interface (CLI), VSCode, Node.js
 
-### Project 2: GIT repo via VSCode
+### [Project 2](https://uo-cit-catherinenolan.github.io/cit281-p2/): GIT repo via VSCode
 
 ### Project 3: Non-server Node.js, Fastify with GET and routes
 
