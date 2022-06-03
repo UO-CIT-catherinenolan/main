@@ -7,7 +7,7 @@
 
 ### [Lab 3](https://uo-cit-catherinenolan.github.io/cit281-lab3/): Refactoring, destructuring an object, arrow function expressions, for..in, for..of, module.exports
 
-### Lab 4: Fastify, Node.js web server, npm
+### [Lab 4](https://uo-cit-catherinenolan.github.io/cit281-lab4/): Fastify, Node.js web server, npm
 
 ### Lab 5: Postman, fastify server with GET and JSON
 
