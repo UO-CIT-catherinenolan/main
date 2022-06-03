@@ -11,7 +11,7 @@
 
 ### [Lab 5](https://uo-cit-catherinenolan.github.io/cit281-lab5/): Postman, fastify server with GET and JSON
 
-### Lab 6: GitHub, JavaScript Classes
+### [Lab 6](https://uo-cit-catherinenolan.github.io/cit281-lab6/): GitHub, JavaScript Classes
 
 ### Lab 7: GitHub repository, error handling
  
