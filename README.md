@@ -19,7 +19,7 @@
 
 ### [Lab 9](https://uo-cit-catherinenolan.github.io/cit281-lab9/): GitHub Learning course
 
-### Project 1: Commnad Line Interface (CLI), VSCode, Node.js
+### [Project 1](https://uo-cit-catherinenolan.github.io/cit281-p1/): Commnad Line Interface (CLI), VSCode, Node.js
 
 ### Project 2: GIT repo via VSCode
 
