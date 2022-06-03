@@ -23,7 +23,7 @@
 
 ### [Project 2](https://uo-cit-catherinenolan.github.io/cit281-p2/): GIT repo via VSCode
 
-### Project 3: Non-server Node.js, Fastify with GET and routes
+### [Project 3](https://uo-cit-catherinenolan.github.io/cit281-p3/): Non-server Node.js, Fastify with GET and routes
 
 ### Project 4: Node.js REST API, testing code module, JSON, Fastify verbs
 
