@@ -1,5 +1,5 @@
 # CIT Minor GitHub entry page
-## CIT 281 Spring quarter 2022 ![spring flowers](https://unsplash.com/photos/Z8TQv3yKQd4)
+## CIT 281 Spring quarter 2022 ![spring flowers](spring-flowers.jpg)
 
 ### [Lab 1](https://uo-cit-catherinenolan.github.io/cit281-lab1/): Setup tools and development environment
 
