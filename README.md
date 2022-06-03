@@ -15,7 +15,7 @@
 
 ### [Lab 7](https://uo-cit-catherinenolan.github.io/cit281-lab7/): GitHub repository, error handling
  
-### Lab 8:  Node-fetch and Fastify with JSONPlaceholder data
+### [Lab 8](https://uo-cit-catherinenolan.github.io/cit281-lab8/):  Node-fetch and Fastify with JSONPlaceholder data
 
 ### Lab 9: GitHub Learning course
 
