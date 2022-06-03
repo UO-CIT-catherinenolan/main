@@ -3,7 +3,7 @@
 
 ### [Lab 1](https://uo-cit-catherinenolan.github.io/cit281-lab1/): Setup tools and development environment
 
-### Lab 2: Use CLI commands and setup GIT user credentials
+### [Lab 2](https://uo-cit-catherinenolan.github.io/cit281-lab2/): Use CLI commands and setup GIT user credentials
 
 ### Lab 3: Refactoring, destructuring an object, arrow function expressions, for..in, for..of, module.exports
 
