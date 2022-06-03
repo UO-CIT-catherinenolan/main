@@ -9,7 +9,7 @@
 
 ### [Lab 4](https://uo-cit-catherinenolan.github.io/cit281-lab4/): Fastify, Node.js web server, npm
 
-### Lab 5: Postman, fastify server with GET and JSON
+### [Lab 5](https://uo-cit-catherinenolan.github.io/cit281-lab5/): Postman, fastify server with GET and JSON
 
 ### Lab 6: GitHub, JavaScript Classes
 
