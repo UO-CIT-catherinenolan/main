@@ -17,7 +17,7 @@
  
 ### [Lab 8](https://uo-cit-catherinenolan.github.io/cit281-lab8/):  Node-fetch and Fastify with JSONPlaceholder data
 
-### Lab 9: GitHub Learning course
+### [Lab 9](https://uo-cit-catherinenolan.github.io/cit281-lab9/): GitHub Learning course
 
 ### Project 1: Commnad Line Interface (CLI), VSCode, Node.js
 
