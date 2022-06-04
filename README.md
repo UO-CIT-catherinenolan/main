@@ -31,6 +31,6 @@
 
 ### [Project 6](https://uo-cit-catherinenolan.github.io/cit281-p6/): Rectangle class and Triangle class inherit from Shape base class
 
-### Project 7: GitHub repos and GitHub Pages
+### [Project 7](https://uo-cit-catherinenolan.github.io/cit281-p7/): GitHub repos and GitHub Pages
 
 
