@@ -29,7 +29,7 @@
 
 ### [Project 5](https://uo-cit-catherinenolan.github.io/cit281-p5/): JavaScript classes in the Monster Game program
 
-### Project 6: Rectangle class and Triangle class inherit from Shape base class
+### [Project 6](https://uo-cit-catherinenolan.github.io/cit281-p6/): Rectangle class and Triangle class inherit from Shape base class
 
 ### Project 7: GitHub repos and GitHub Pages
 
