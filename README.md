@@ -25,7 +25,7 @@
 
 ### [Project 3](https://uo-cit-catherinenolan.github.io/cit281-p3/): Non-server Node.js, Fastify with GET and routes
 
-### Project 4: Node.js REST API, testing code module, JSON, Fastify verbs
+### [Project](https://uo-cit-catherinenolan.github.io/cit281-p4/) 4: Node.js REST API, testing code module, JSON, Fastify verbs
 
 ### Project 5: JavaScript classes in the Monster Game program
 
