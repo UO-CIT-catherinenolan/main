@@ -27,7 +27,7 @@
 
 ### [Project](https://uo-cit-catherinenolan.github.io/cit281-p4/) 4: Node.js REST API, testing code module, JSON, Fastify verbs
 
-### Project 5: JavaScript classes in the Monster Game program
+### [Project 5](https://uo-cit-catherinenolan.github.io/cit281-p5/): JavaScript classes in the Monster Game program
 
 ### Project 6: Rectangle class and Triangle class inherit from Shape base class
 
